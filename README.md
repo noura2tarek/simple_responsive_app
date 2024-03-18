@@ -1,6 +1,5 @@
 # simple_responsive_app
-
-A new Flutter project.
+Simple responsive app Uses layout builder widget.
 
 ## Getting Started
 
